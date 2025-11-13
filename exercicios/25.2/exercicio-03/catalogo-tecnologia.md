@@ -17,6 +17,7 @@
 
 - Git - exemplo
 - Figma - exemplo
+- Affinity @gusrlima
 
 ---
 
